@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_partner"
+
+
+        android:title="Partner Coffeshop" />
+    <item
+        android:id="@+id/nav_bonus"
+
+        android:title="Bonus program" />
+    <!--<item-->
+        <!--android:id="@+id/nav_offers"-->
+
+        <!--android:title="Offers" />-->
+        <item
+            android:id="@+id/itemlogout"
+            android:title="Log Out" />
+    </group>
+    </menu>

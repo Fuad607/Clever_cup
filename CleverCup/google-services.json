@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "985331582546",
+    "firebase_url": "https://clevercup-5d2ea.firebaseio.com",
+    "project_id": "clevercup-5d2ea",
+    "storage_bucket": "clevercup-5d2ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985331582546:android:1073131b15fe9b03",
+        "android_client_info": {
+          "package_name": "com.example.fuad.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985331582546-3qet6mvnpscinloakvbnmdg10b7r5hgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYPt_shRbWKsv9sp3JNqq-uDm7Hq6yQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
